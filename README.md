@@ -19,7 +19,7 @@ Approfondendo le mie conoscenze nell'ambito dell'Intelligenza Artificiale e cont
 
 
 ## 📊 Statistiche GitHub
-![Le tue statistiche GitHub](https://github-readme-stats.vercel.app/api?username=il_tuo_username&show_icons=true)
+![Le tue statistiche GitHub](https://github-readme-stats.vercel.app/api?username=NicolaM99&show_icons=true)
 
 ## 🤝 Contributi e collaborazioni
 Sono sempre interessato a nuove collaborazioni su progetti interessanti, specialmente nel campo dell'intelligenza artificiale e dello sviluppo software. Se hai un'idea o un progetto in cui pensi possa contribuire, non esitare a contattarmi!
