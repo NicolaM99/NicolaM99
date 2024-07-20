@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ciao, sono Nicola 👋
 
-<!--
-**NicolaM99/NicolaM99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Chi sono
+Laureando in Informatica con una passione per lo sviluppo software e l'intelligenza artificiale. Competente in Python, C++, Java e tecnologie web. Sempre alla ricerca di nuove sfide per ampliare le mie competenze nel mondo del software development.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologie e strumenti
+- Linguaggi di programmazione: Python, C++, Java
+- Web Development: HTML, CSS
+- Database: MySQL
+- Altro: Markdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Sto imparando
+Approfondendo le mie conoscenze nell'ambito dell'Intelligenza Artificiale e continuamente migliorando le mie competenze di sviluppo software.
+
+
+## 📫 Come contattarmi
+- LinkedIn: https://www.linkedin.com/in/nicola-mastromarino-3a3b74189
+- Email: nickmastromarino54@gmail.com 
+
+
+## 📊 Statistiche GitHub
+![Le tue statistiche GitHub](https://github-readme-stats.vercel.app/api?username=il_tuo_username&show_icons=true)
+
+## 🤝 Contributi e collaborazioni
+Sono sempre interessato a nuove collaborazioni su progetti interessanti, specialmente nel campo dell'intelligenza artificiale e dello sviluppo software. Se hai un'idea o un progetto in cui pensi possa contribuire, non esitare a contattarmi!
