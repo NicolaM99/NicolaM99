@@ -6,7 +6,6 @@ class Nicola:
     def __init__(self):
         self.status = "Studente al terzo anno di Informatica 🎓"
         self.università = "Università degli Studi di Bari 'Aldo Moro'"
-        self.aspirazione = "Ingegnere del Software 💻"
         self.passioni = ["Sviluppo Software", "Intelligenza Artificiale", "Problem Solving"]
         self.competenze = ["Python", "Java", "C", "C++", "Database", "Algoritmi", "UX/UI", "HTML", "CSS", "Markdown"]
         self.motto = "Trasformare le sfide in opportunità di innovazione! 💪"
