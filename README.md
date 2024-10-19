@@ -4,7 +4,7 @@
 ```python
 class Nicola:
     def __init__(self):
-        self.status = "Studente al terzo anno di Informatica 🎓"
+        self.status = "Laureato in Informatica 🎓"
         self.università = "Università degli Studi di Bari 'Aldo Moro'"
         self.passioni = ["Sviluppo Software", "Intelligenza Artificiale", "Problem Solving"]
         self.competenze = ["Python", "Java", "C", "C++", "Database", "Algoritmi", "UX/UI", "HTML", "CSS", "Markdown"]
