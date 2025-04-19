@@ -1,4 +1,4 @@
-# 👨‍💻 Ciao, sono Nicola Mastromarino!
+# 👨‍💻 Ciao, sono Nicola Mastromarino!  
 
 ## 🚀 Chi sono
 ```python
@@ -53,11 +53,14 @@ io = Nicola()
   <a href="https://github.com/NicolaM99">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://nicolam99.github.io/">
+    <img src="https://img.shields.io/badge/Sito%20Web-%230077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sito Web"/>
+  </a>
 </p>
+
 
 ## 🤝 Collaborazioni e opportunità
 
-- 💡 Disponibile per una prima esperienza lavorativa nel campo dell'informatica
 - 🤝 Predisposizione al co-working, anche in modalità remota 
 - 🚀 Entusiasta di contribuire a progetti innovativi e sfidanti
 
@@ -67,4 +70,3 @@ io = Nicola()
 </p>
 
 ---
-
