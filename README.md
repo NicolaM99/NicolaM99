@@ -55,7 +55,7 @@ nicola = CloudConsultant()
 
 ## 💼 Esperienza Professionale
 
-### 🏢 **Cloud Consultant** @ Nimbus Reply *(2024 - presente)*
+### 🏢 **Cloud Consultant** @ Nimbus Reply *(2025 - presente)*
 - ☁️ **Architetture Cloud**: Progettazione di soluzioni scalabili e sicure per il settore pubblico
 - 🔒 **DevSecOps**: Implementazione di pipeline CI/CD con focus su sicurezza e compliance
 - 🌐 **Multi-Cloud**: Gestione infrastrutture AWS e Google Cloud Platform
