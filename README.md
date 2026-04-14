@@ -3,26 +3,28 @@
 ## 🚀 Chi sono
 
 ```python
-class CloudConsultant:
+class CloudConsultantAIEngineer:
     def __init__(self):
         self.nome = "Nicola Mastromarino"
-        self.ruolo_attuale = "Cloud Consultant & AI Specialist @ Nimbus Reply"
+        self.ruolo_attuale = "Cloud Consultant & AI Engineer @ Nimbus Reply"
         self.formazione = {
             "magistrale": "Computer Science - AI Curriculum (in corso)",
+            "short_master": "Generative AI: dalla teoria alla pratica (2026) ✅",
             "triennale": "Informatica (2024)",
             "università": "Università degli Studi di Bari 'Aldo Moro'"
         }
         self.specializzazioni = [
-            "Cloud Architecture", "DevSecOps", "AI/ML Solutions",
-            "Multi-Cloud Management", "Digital Transformation"
+            "Cloud Architecture", "DevSecOps", "GenAI / LLMOps",
+            "RAG Pipelines", "LLM Fine-tuning (QLoRA)", "Multi-Cloud Management"
         ]
         self.certificazioni = [
             "Google Cloud Digital Leader",
-            "AWS Educate - Cloud 101"
+            "AWS Educate - Cloud 101",
+            "Digital Transformation with Google Cloud"
         ]
-        self.motto = "Trasformare le sfide cloud in opportunità di innovazione! ☁️🚀"
+        self.motto = "Dall'infrastruttura cloud all'AI generativa: costruire soluzioni che contano. ☁️🤖"
 
-nicola = CloudConsultant()
+nicola = CloudConsultantAIEngineer()
 ```
 
 ## ☁️ Competenze Cloud & DevOps
@@ -35,13 +37,14 @@ nicola = CloudConsultant()
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Infrastructure as Code"/>
 </p>
 
-## 🤖 AI & Machine Learning
+## 🤖 AI, GenAI & Machine Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
 </p>
 
 ## 💻 Linguaggi & Database
@@ -51,52 +54,63 @@ nicola = CloudConsultant()
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 ## 💼 Esperienza Professionale
 
-### 🏢 **Cloud Consultant** @ Nimbus Reply *(2025 - presente)*
-- ☁️ **Architetture Cloud**: Progettazione di soluzioni scalabili e sicure per il settore pubblico
-- 🔒 **DevSecOps**: Implementazione di pipeline CI/CD con focus su sicurezza e compliance
-- 🌐 **Multi-Cloud**: Gestione infrastrutture AWS e Google Cloud Platform
-- 🔄 **Digital Transformation**: Consulenza su modernizzazione applicativa e governance cloud
+### 🏢 **Cloud Consultant** @ Nimbus Reply *(Apr 2025 – presente)*
+- ☁️ **Cloud Automation**: Provisioning di risorse cloud tramite Python e API su piattaforme multi-cloud (Morpheus)
+- 🔒 **DevSecOps**: Pipeline CI/CD enterprise con focus su sicurezza e compliance in ambienti regolamentati
+- 🌐 **Multi-Cloud**: Monitoraggio e ottimizzazione di workload
+- 🔄 **Migrazione**: Analisi di sistemi legacy e strategie di transizione verso architetture cloud-native
+
+### 🔬 **Graduate Research Intern** @ Università degli Studi di Bari *(Lug – Ott 2024)*
+- 🤖 Sviluppo modelli di Computer Vision per Facial Expression Recognition (FER) real-time su piattaforme di Social Robotics
+- 🧠 Stack: OpenCV, TensorFlow, PyTorch – con analisi di bias algoritmici e implicazioni etiche
 
 ## 🎯 Progetti in Evidenza
 
-### 🤖 **Sistema Computer Vision per Social Robot** *(Progetto di Tesi)*
-- Algoritmi deep learning per riconoscimento espressioni facciali real-time
-- Stack: Python, OpenCV, TensorFlow
-- Testing su piattaforme robotiche per interazione sociale
+### 🏥 **Medical RAG Question Answering System** *(Short Master Final Project – 2025/2026)*
+> Sistema CDSS per Clinical QA su note cliniche non strutturate (MIMIC-III)
+- 🔍 **Retriever ibrido**: BM25 + S-PubMedBERT con Reciprocal Rank Fusion (RRF) e Adaptive Query Router
+- 🧬 **Fine-tuning**: BioMistral-7B via QLoRA (~21M parametri) su 2×NVIDIA T4 per meccanismi di astensione (NO_ANSWER)
+- 📈 **Risultati**: +190% Token F1, +112% No-Answer Accuracy vs. baseline; riduzione allucinazioni del 40%
+- 🛡️ Deployment on-premises con attenzione a EU AI Act e supervisione umana
+- **Stack**: BioMistral · QLoRA · FAISS · BM25 · S-PubMedBERT · Hugging Face · Python
 
-### ⚔️ **Battleship Enterprise Application**
-- Applicazione Java enterprise con architettura modulare
-- CI/CD completa con GitHub Actions e Docker
+### 🤖 **Sistema Computer Vision per Social Robot** *(Progetto di Tesi Triennale – 2024)*
+- Algoritmi deep learning per riconoscimento espressioni facciali real-time su piattaforme robotiche
+- Analisi di bias algoritmici e implicazioni etiche in contesti di assistenza sociale
+- **Stack**: Python · OpenCV · TensorFlow · PyTorch
+
+### ⚔️ **Battleship Enterprise Application** *(2024)*
+- Applicazione Java enterprise con architettura modulare e pipeline CI/CD completa (GitHub Actions, Docker)
 - Quality assurance con Checkstyle, PMD e documentazione UML
 
-### ❤️ **Heart Disease Prediction System**
+### ❤️ **Heart Disease Prediction System** *(2024)*
 - Sistema ML con accuracy 85%+ per previsione rischio cardiovascolare
-- Algoritmi: Random Forest, XGBoost, Naive Bayes, k-NN
-- Feature engineering avanzato e bilanciamento dataset
+- Algoritmi: Random Forest, XGBoost, Naive Bayes, k-NN; feature engineering avanzato e bilanciamento dataset
 
 ## 🏆 Certificazioni
 
-- 🥇 **Google Cloud Certified - Cloud Digital Leader** *(2025-2028)*
-- 📚 **AWS Educate - Introduction to Cloud 101** *(2025)*
+- 🥇 **Google Cloud Certified – Cloud Digital Leader** *(2025–2028)*
 - 🚀 **Digital Transformation with Google Cloud** *(2025)*
+- 📚 **AWS Educate – Introduction to Cloud 101** *(2025)*
+- 🎓 **Short Master in Generative AI** – Università degli Studi di Bari *(2026)* ✅
 
 ## 🌱 Attualmente sto...
 
 - 🎓 Completando la Magistrale in Computer Science con curriculum AI
-- ☁️ Approfondendo architetture cloud-native e microservizi
-- 🤖 Esplorando Computer Vision e NLP per applicazioni enterprise
-- 🔐 Specializzandomi in Zero Trust Security e compliance normative
+- 🤖 Approfondendo LLMOps, RAG architectures e agentic AI systems
+- ☁️ Specializzandomi in architetture cloud-native e multi-cloud enterprise
+- 🔐 Esplorando AI governance, EU AI Act compliance e Zero Trust Security
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NicolaM99&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolaM99&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages"/>
 </p>
@@ -118,14 +132,14 @@ nicola = CloudConsultant()
 ## 🤝 Collaborazioni
 
 - ☁️ Consulenza su migrazione e modernizzazione cloud
-- 🤖 Progetti AI/ML per il settore pubblico e privato
+- 🤖 Progetti GenAI / RAG / LLMOps per il settore pubblico e privato
 - 🔒 Implementazione soluzioni DevSecOps enterprise
 - 🌐 Sviluppo architetture cloud-native scalabili
 
 ---
 
 <p align="center">
-  <i>Trasformiamo le idee in soluzioni cloud e l'AI in valore business! ☁️🤖✨</i>
+  <i>Dall'infrastruttura cloud all'AI generativa: costruire soluzioni che contano. ☁️🤖✨</i>
 </p>
 
 ---
