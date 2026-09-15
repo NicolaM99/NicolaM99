@@ -11,7 +11,7 @@
 class AIEngineer:
     def __init__(self):
         self.name        = "Nicola Mastromarino"
-        self.role        = "AI Engineer & Cloud Architect @ Nimbus Reply"
+        self.role        = "AI Engineer @ Machine Learning Reply"
         self.focus       = ["GenAI Systems", "LLMOps", "RAG Pipelines", "LLM Fine-tuning"]
         self.stack       = ["BioMistral", "QLoRA", "FAISS", "HuggingFace",
                             "GCP", "AWS", "Docker", "Python"]
@@ -111,7 +111,10 @@ Java enterprise application with full CI/CD (GitHub Actions + Docker) and UML do
 
 ## 💼 Experience
 
-**AI Engineer & Cloud Consultant** — *Nimbus Reply* `Apr 2025 – present`
+**AI Engineer** — *Machine Learning Reply* `Set 2026 – present`
+Building scalable GenAI solutions, RAG pipelines, and LLMOps infrastructure for enterprise clients.
+
+**Cloud Engineer** — *Nimbus Reply* `Apr 2025 – Set 2026`
 Cloud automation (Python + Morpheus API), DevSecOps pipelines, multi-cloud workload optimization, legacy-to-cloud-native migration strategy.
 
 **Graduate Research Intern** — *Università degli Studi di Bari* `Jul – Oct 2024`
@@ -163,3 +166,4 @@ Computer Vision research for FER on social robots. Algorithmic bias analysis, da
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NicolaM99&color=blueviolet&style=for-the-badge"/>
 </p>
+
