@@ -166,4 +166,3 @@ Computer Vision research for FER on social robots. Algorithmic bias analysis, da
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NicolaM99&color=blueviolet&style=for-the-badge"/>
 </p>
-
