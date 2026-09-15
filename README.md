@@ -136,12 +136,16 @@ Computer Vision research for FER on social robots. Algorithmic bias analysis, da
 
 ## 📊 GitHub Stats
 
+<!-- Temporarily hidden due to API issues
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NicolaM99&hide_border=true&background=0d0d0d&border=1c1c1c&stroke=e8603c&ring=e8603c&fire=e8603c&currStreakNum=e8e4dc&sideNums=e8e4dc&currStreakLabel=e8603c&sideLabels=e8603c&dates=b7ab98" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=NicolaM99&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
+-->
+<!-- Temporarily hidden due to API issues
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolaM99&hide_border=true&bg_color=0d0d0d&color=e8e4dc&line=e8603c&point=ffffff&area=true&title_color=e8603c&area_color=e8603c" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolaM99&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
 </p>
+-->
 
 ---
 
@@ -166,4 +170,5 @@ Computer Vision research for FER on social robots. Algorithmic bias analysis, da
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NicolaM99&color=blueviolet&style=for-the-badge"/>
 </p>
+
 
